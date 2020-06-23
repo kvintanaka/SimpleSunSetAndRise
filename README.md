@@ -19,8 +19,7 @@ Then, install the requirements
 Lastly, run the python script
 > python simple_sun_set_and_rise.py <city>
   
-  Example:
-  > python sssar.py New York
+###### Example:
+> python sssar.py New York
 
-
-Hope this is useful for you internet! star this project if you think it is useful and thank you for the contribution.
+## Hope this is useful for you internet! star this project if you think it is useful and thank you for the contribution.
