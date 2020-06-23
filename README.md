@@ -6,8 +6,8 @@ OpenStreetMap.org
 sunset-sunrise.org
 
 # Functionality
-* Getting coordinates data from a city with REST API
-* Get the sunset and sunrise data with REST API
+* Get a coordinate data (latitude and longitude) from a city with REST API
+* Get a sunset and sunrise data with REST API
 
 # Instruction
 For quick Python installation, you can go to:
@@ -16,7 +16,7 @@ https://kvintanaka.com/articles/quick-python-installation
 Then, install the requirements
 > pip install -r requirements.txt
 
-Lastly, run the python script
+Last, run the python script
 > python simple_sun_set_and_rise.py <city>
   
 ###### Example:
