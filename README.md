@@ -17,7 +17,7 @@ Then, install the requirements
 > pip install -r requirements.txt
 
 Last, run the python script
-> python simple_sun_set_and_rise.py <city>
+> python ssar.py [city]
   
 ###### Example:
 > python sssar.py New York
